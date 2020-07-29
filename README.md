@@ -3,7 +3,7 @@
 
 <p>I'm Damian Lion Maring, Associate Development Architect from 🇩🇪 Germany</b>, currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/2880px-SAP_2011_logo.svg.png" width="20"/> Walldorf, Germany</b>. </p>
 
-<img align="right" alt="GIF" src="./img/banner.png" />
+<img align="right" alt="Banner" src="https://github.com/DamianLion/DamianLion/blob/master/img/banner.png" />
 
 <h3>Things I code with</h3>
 <p>
