@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 
-<p>I'm Damian Lion Maring, Development Architect from 🇩🇪 Germany</b>, currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/2880px-SAP_2011_logo.svg.png" width="20"/> Walldorf, Germany</b>. mostly focused on UI Technologies and playing around with Smart Home tools</p>
+<p>I'm Damian Lion Maring, UX/UI Development Architect from 🇩🇪 Germany</b>, currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/2880px-SAP_2011_logo.svg.png" width="20"/> Walldorf, Germany</b>. mostly focused on UI Technologies and playing around with Smart Home tools</p>
 
 <img align="right" width="300" alt="Banner" src="https://github.com/DamianLion/DamianLion/blob/master/img/banner.png" />
 
