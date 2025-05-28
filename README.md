@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 
-<p>I'm Damian Lion Maring, UX/UI Development Architect from 🇩🇪 Germany</b>, currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/2880px-SAP_2011_logo.svg.png" width="20"/> Walldorf, Germany</b>. mostly focused on UI Technologies and playing around with Smart Home tools</p>
+<p>I'm Damian Lion Maring, Lead UX/UI Development Architect from 🇩🇪 Germany</b>, currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/2880px-SAP_2011_logo.svg.png" width="20"/> Walldorf, Germany</b>. mostly focused on UI Technologies and playing around with Smart Home tools</p>
 
 <img align="right" width="300" alt="Banner" src="https://github.com/DamianLion/DamianLion/blob/master/img/banner.png" />
 
@@ -33,13 +33,13 @@
 
 <h3>Where to find me</h3>
 <p>
-<a href="https://instagram.com/damian_maring" target="_blank">
+<a href="https://instagram.com/damian.lion" target="_blank">
 <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://twitter.com/DamianMaring" target="_blank">
 <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/damian-lion-maring-09b4075b/" target="_blank">
+<a href="https://www.linkedin.com/in/damian-lion/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@damianmaring" target="_blank">
 <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
